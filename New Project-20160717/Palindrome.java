@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.*;
-
+//java program to identify whether string is Palindrome or not.
 public class Palindrome{
 
 public static void main(String []args){
