@@ -1,2 +1,2 @@
-# codingground
-Main Repository for Coding Ground
+whether String is palindrome or not.??
+HelloWorld.java contain program of vowels and consonents in given string.
